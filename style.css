@@ -4,15 +4,15 @@
     font-family: "Allerta", sans-serif;
   }
 
-  /* navbar */
+ 
   #navbarMonstera {
     width: 100%;
     margin: 1em auto;
-    height: 50px;
+    height: 3em;
   }
   #navFirst {
     float: left;
-    width: 100px;
+    width: 6.2em;
     margin-top: 0.3em;
   }
   #navFirst img {
@@ -49,17 +49,17 @@
   }
 
   #monstera {
-    font-size: 6rem;
+    font-size: 6em;
     font-family: "Abel";
     transform: scale(1.6, 1);
     position: relative;
-    width: 500px;
+    width: 6em;
     left: 185px;
     padding: 0;
     top: 15px;
   }
   ul {
-    font-size: 0.9rem;
+    font-size: 0.9em;
     width: 80%;
   }
 
@@ -68,7 +68,7 @@
     float: left;
     background-color: #466d50;
     color: #fff;
-    font-size: 2rem;
+    font-size: 2em;
     border-radius: 38px;
     padding: 0.3em 0.8em;
     margin: 1.5em 1em;
@@ -87,10 +87,10 @@
     float: right;
   }
 
-  /* footer */
+  
   .midWholePart13Parts {
     float: left;
-    width: 33.3%;
+    width: 33%;
   }
 
   #feeding {
